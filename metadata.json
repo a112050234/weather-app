@@ -1,0 +1,5 @@
+{
+  "name": "VibeWeather",
+  "description": "A stylish, serif-forward weather application featuring real-time data from Open-Meteo and AI-powered outfit recommendations based on current conditions.",
+  "requestFramePermissions": []
+}
